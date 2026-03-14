@@ -3,7 +3,7 @@ import { marked } from 'marked';
 
 const FAVORITES_KEY = 'favorites';
 const THEME_KEY = 'media-ai-theme';
-const DOWNLOAD_URL = 'https://github.com/KingAsan/media-ai-diploma/releases/download/MediaAI/media.exe';
+const DOWNLOAD_URL = 'https://github.com/KingAsan/media-ai/releases/download/media/media.exe';
 
 const THEMES = [
   ['', 'Netflix Red', '#ff4b4b'],
